@@ -1,0 +1,318 @@
+.register {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .register .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .register .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 176px;
+    top: 0;
+    left: 0;
+    background-color: #262626;
+  }
+  
+  .register .ya-tienes-cuenta {
+    position: absolute;
+    width: 469px;
+    top: 47px;
+    left: 869px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .register .text-wrapper {
+    color: #ffffff;
+  }
+  
+  .register .span {
+    color: #edcf64;
+  }
+  
+  .register .UNI-ART-GALLERY {
+    position: absolute;
+    top: 47px;
+    left: 160px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: 80px;
+  }
+  
+  .register .text-wrapper-2 {
+    color: #0d15e5;
+  }
+  
+  .register .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 151px;
+    top: 873px;
+    left: 0;
+    background-color: #262626;
+  }
+  
+  .register .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 697px;
+    top: 176px;
+    left: 0;
+  }
+  
+  .register .rectangle-2 {
+    position: absolute;
+    width: 1440px;
+    height: 32px;
+    top: 665px;
+    left: 0;
+    background-color: #edcf64;
+  }
+
+ 
+  
+  
+  .register .group {
+    position: absolute;
+    width: 1440px;
+    height: 697px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/SxKYrfrP/img/background.png);
+    background-size: 100% 100%;
+  }
+  
+  .register .form {
+    position: relative;
+    width: 453px;
+    height: 668px;
+    top: 15px;
+    left: 160px;
+  }
+  
+  .register .overlap-2 {
+    position: relative;
+    width: 443px;
+    height: 668px;
+    background-color: #262626;
+    border-radius: 25px;
+    transform-style: preserve-3d;
+    transition: transform 0.999s;
+  }
+  
+  .register .rectangle-3 {
+    position: absolute;
+    width: 408px;
+    height: 616px;
+    top: 29px;
+    left: 16px;
+    background-color: #edcf64;
+    border-radius: 25px;
+  }
+  
+  .register .text-wrapper-3 {
+    position: absolute;
+    width: 250px;
+    top: 420px;
+    left: 58px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .register .rectangle-4 {
+    font-family: "Rajdhani", Helvetica;
+    font-size: 15px;
+    position: absolute;
+    width: 333px;
+    height: 110px;
+    top: 370px;
+    left: 40px;
+    background-color: #d9d9d9;
+  }
+  .register .rectangle-11 {
+    font-family: "Rajdhani", Helvetica;
+    font-size: 15px;
+    position: absolute;
+    width: 333px;
+    height: 50px;
+    top: 370px;
+    left: 40px;
+    background-color: #d9d9d9;
+  }
+  
+  .register .rectangle-5 {
+    position: absolute;
+    width: 333px;
+    height: 50px;
+    top: 492px;
+    left: 40px;
+    background-color: #d9d9d9;
+  }
+  
+  .register .text-wrapper-4 {
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    left: 58px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .register .button {
+    position: absolute;
+    width: 192px;
+    height: 65px;
+    top: 569px;
+    left: 127px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .register .overlap-group-2 {
+    position: relative;
+    width: 190px;
+    height: 65px;
+  }
+  
+  .register .rectangle-6 {
+    position: absolute;
+    width: 190px;
+    height: 47px;
+    top: 520px;
+    left: 110px;
+    background-color: #000000;
+    border-radius: 25px;
+    font-family: 'Rajdhani',Helvetica;
+    color: #edcf64;
+    font-size: 25px;
+    font-weight: 700;
+  }
+  
+  .register .text-wrapper-5 {
+    position: absolute;
+    width: 111px;
+    top: 0;
+    left: 56px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #edcf64;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .register .text-wrapper-6 {
+    position: absolute;
+    width: 169px;
+    top: 194px;
+    left: 58px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .register .text-wrapper-7 {
+    position: absolute;
+    width: 169px;
+    top: 92px;
+    left: 57px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .register .rectangle-7 {
+    font-family: "Rajdhani", Helvetica;
+    font-size: 25px;
+    position: absolute;
+    width: 333px;
+    height: 50px;
+    top: 253px;
+    left: 40px;
+    background-color: #d9d9d9;
+  }
+  
+  .register .text-wrapper-8 {
+    position: absolute;
+    width: 336px;
+    top: 38px;
+    left: 54px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .register .rectangle-8 {
+    font-family: "Rajdhani", Helvetica;
+    font-size: 25px;
+    position: absolute;
+    width: 333px;
+    height: 50px;
+    top: 152px;
+    left: 40px;
+    background-color: #d9d9d9;
+  }
+  
+
+  .card-front,
+  .card-back {
+    position: absolute; 
+    backface-visibility: hidden;
+  }
+
+  .card-front{
+    transform: rotateY(0deg);
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card-back{
+    transform:rotateY(180deg);
+    align-items: center;
+    justify-content: center;
+  }
+
+  .form.clicked .overlap-2 {
+    transform: rotateY(180deg);
+  }

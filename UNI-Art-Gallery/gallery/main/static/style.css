@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css?family=Rajdhani:500,700");
+
+body {
+    background: #EDCF64;
+    font-family: Rajdhani, Helvetica;
+    font-size: 1rem;
+    height: 100%;
+    width: 100%;
+}
+
+.btn-create {
+
+}
+
+.creation-bg {
+    background-image: url('images/bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+}
+
+.screen-nav {
+    background-image: url('images/nav.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #EDCF64;
+    height: 160px;
+    width: 100%;
+}
+
+.navbar img {
+    width: 200px;
+}
+
+#uni,
+.art {
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+#uni {
+    color: #0D15E5;
+}
+
+.art {
+    color: #EDCF64;
+}
+
+.navbar-toggler {
+    background-color: #EDCF64;
+    color: #EDCF64;
+}
+
+.data-box {
+    background-color: #EDCF64;
+}
+
+.col-bg-body {
+    background-color: #262626;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.description {
+    height: 150px;
+
+    background-color: #7A6E6E;
+}
+
+.post {
+    background-color: #262626;
+}
+
+.stars svg {
+    cursor: pointer;
+    color: currentColor;
+    transition: color 0.2s;
+}
+
+.stars svg.active {
+    color: #EDCF64;
+}
+
+.profile-links {
+    background-color: #EDCF64;
+    font-weight: bold;
+    transition: ease-in-out, background-color 0.15s;
+}
+
+.profile-links:hover {
+    background-color: white;
+}
+
+
+/* media queries */
+
+@media (max-width: 991px) {
+    .navbar-nav {
+        background-color: #262626;
+    }
+
+    .navbar img {
+        width: 150px;
+    }
+}
+
+@media (max-width: 1120px) {
+    .right-sidebar {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1043px) {
+    .left-sidebar {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1042px) {
+    .col-md-10 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+}

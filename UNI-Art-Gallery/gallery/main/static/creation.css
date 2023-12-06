@@ -1,0 +1,508 @@
+.my-creations {
+    background-color: #262626;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .my-creations .div {
+    background-color: #262626;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .my-creations .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 223px;
+    top: -43px;
+    left: 0;
+  }
+  
+  .my-creations .screen-nav {
+    position: absolute;
+    width: 1440px;
+    height: 223px;
+    top: 0;
+    left: 0;
+  }
+  
+  .my-creations .overlap-group {
+    position: relative;
+    height: 180px;
+    top: 43px;
+    background-color: #edcf64;
+  }
+  
+  .my-creations .nav-bar {
+    position: absolute;
+    width: 1440px;
+    height: 168px;
+    top: 0;
+    left: 0;
+  }
+  
+  .my-creations .BIENVENIDO {
+    position: absolute;
+    width: 522px;
+    top: 9px;
+    left: 805px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .UNI-ART-GALLERY {
+    position: absolute;
+
+    top: 59px;
+    left: 135px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: 80px;
+  }
+  
+  .my-creations .text-wrapper {
+    color: #0d15e5;
+  }
+  
+  .my-creations .span {
+    color: #ffffff;
+  }
+  
+  .my-creations .text-wrapper-2 {
+    color: #edcf64;
+  }
+  
+  .exit-button {
+    position: absolute;
+
+    top: 71px;
+    left: 1314px;
+
+
+    width: 109px;
+    height: 75px;
+    background-color: var(--red);
+    border-radius: 25px;
+  }
+  
+  
+  .my-creations .div-wrapper {
+    position: relative;
+    width: 109px;
+    height: 75px;
+    background-color: var(--red);
+    border-radius: 25px;
+  }
+  
+  .my-creations .text-wrapper-3 {
+    position: absolute;
+    width: 60px;
+    top: 0;
+    left: 25px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .CREATE {
+    position: absolute;
+    width: 297px;
+    height: 60px;
+    top: 129px;
+    left: 944px;
+  }
+  
+  .my-creations .overlap-2 {
+    position: relative;
+    width: 295px;
+    height: 60px;
+  }
+  
+  .my-creations .rectangle {
+    position: absolute;
+    width: 75px;
+    height: 45px;
+    top: 15px;
+    left: 220px;
+  }
+  
+  .my-creations .vector {
+    position: absolute;
+    width: 238px;
+    height: 45px;
+    top: 15px;
+    left: 0;
+  }
+  
+  .my-creations .text-wrapper-4 {
+    position: absolute;
+    width: 178px;
+    top: 0;
+    left: 24px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #262626;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .side-menu {
+    position: absolute;
+    width: 287px;
+    height: 844px;
+    top: 180px;
+    left: 0;
+    background-color: #262626;
+  }
+  
+  .my-creations .user-icons {
+    position: absolute;
+    width: 216px;
+    height: 231px;
+    top: 53px;
+    left: 37px;
+  }
+  
+  .my-creations .overlap-group-2 {
+    position: relative;
+    width: 212px;
+    height: 231px;
+  }
+  
+  .my-creations .rectangle-2 {
+    position: absolute;
+    width: 212px;
+    height: 162px;
+    top: 0;
+    left: 0;
+    background-color: #edcf64;
+    border-radius: 20px;
+  }
+  
+  .my-creations .ellipse {
+    position: absolute;
+    width: 76px;
+    height: 77px;
+    top: 9px;
+    left: 66px;
+    object-fit: cover;
+  }
+  
+  .my-creations .text-wrapper-5 {
+    position: absolute;
+    width: 182px;
+    top: 65px;
+    left: 13px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+  }
+  
+  .my-creations .text-wrapper-6 {
+    position: absolute;
+    width: 67px;
+    top: 95px;
+    left: 68px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .mis-creaciones {
+    position: absolute;
+    width: 243px;
+    height: 80px;
+    top: 372px;
+    left: 20px;
+  }
+  
+  .my-creations .overlap-3 {
+    position: relative;
+    width: 241px;
+    height: 80px;
+  }
+  
+  .my-creations .rectangle-3 {
+    position: absolute;
+    width: 241px;
+    height: 48px;
+    top: 16px;
+    left: 0;
+    background-color: #edcf64;
+    border-radius: 20px;
+  }
+  
+  .my-creations .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 75px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #262626;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .option-icon {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 22px;
+    left: 10px;
+    background-color: #d9d9d9;
+    border-radius: 18px;
+  }
+  
+  .my-creations .mi-acc {
+    position: absolute;
+    width: 243px;
+    height: 80px;
+    top: 292px;
+    left: 20px;
+  }
+  
+  .my-creations .text-wrapper-8 {
+    position: absolute;
+    width: 60px;
+    top: 0;
+    left: 25px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .img {
+    position: absolute;
+    width: 64px;
+    height: 168px;
+    top: 676px;
+    left: 0;
+  }
+  
+  .my-creations .creations {
+    position: absolute;
+    width: 1324px;
+    height: 843px;
+    top: 181px;
+    left: 287px;
+    overflow-y: scroll;
+    background-image: url(https://th.bing.com/th/id/R.006c9fb9fe13a6e153b4b141d9950240?rik=EB6WtE58fVtZ4w&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+
+  .my-creations .text-wrapper-18 {
+    position: absolute;
+    width: 238px;
+    top: 0;
+    left: 24px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .creation-item {
+    position: relative;
+    width: 344px;
+    height: 413px;
+    top: 22px;
+    left: 34px;
+    background-color: #262626;
+    border-radius: 20px;
+  }
+  
+  .my-creations .tag {
+    position: absolute;
+    width: 98px;
+    height: 52px;
+    top: 332px;
+    left: 125px;
+  }
+  
+  .my-creations .rectangle-4 {
+    position: absolute;
+    width: 96px;
+    height: 26px;
+    top: 26px;
+    left: 0;
+    background-color: #e55050;
+    border-radius: 20px;
+  }
+  
+  .my-creations .text-wrapper-9 {
+    position: absolute;
+    width: 78px;
+    top: 0;
+    left: 9px;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .IMG {
+    position: absolute;
+    width: 288px;
+    height: 186px;
+    top: 63px;
+    left: 28px;
+    object-fit: scale-down;
+  }
+  
+  .my-creations .tag-2 {
+    position: absolute;
+    width: 98px;
+    height: 52px;
+    top: 332px;
+    left: 16px;
+  }
+  
+  .my-creations .rectangle-5 {
+    background-color: #8ed762;
+    position: absolute;
+    width: 96px;
+    height: 26px;
+    top: 26px;
+    left: 0;
+    border-radius: 20px;
+  }
+  
+  .my-creations .tag-3 {
+    position: absolute;
+    width: 98px;
+    height: 52px;
+    top: 332px;
+    left: 236px;
+  }
+  
+  .my-creations .rectangle-6 {
+    background-color: #22c0d5;
+    position: absolute;
+    width: 96px;
+    height: 26px;
+    top: 26px;
+    left: 0;
+    border-radius: 20px;
+  }
+  
+  .my-creations .overlap-group-3 {
+    position: absolute;
+    width: 135px;
+    height: 64px;
+    top: 260px;
+    left: 107px;
+  }
+  
+  .my-creations .star {
+    position: absolute;
+    width: 61px;
+    height: 58px;
+    top: 6px;
+    left: 74px;
+  }
+  
+  .my-creations .text-wrapper-10 {
+    position: absolute;
+    width: 79px;
+    top: 0;
+    left: 0;
+    font-family: "Rajdhani", Helvetica;
+    font-weight: 700;
+    color: #edcf64;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 80px;
+    white-space: nowrap;
+  }
+  
+  .my-creations .edit-button {
+    position: absolute;
+    width: 61px;
+    height: 42px;
+    top: 10px;
+    left: 271px;
+  }
+  
+  .btn-create {
+    background-color: #02E1FF;
+    border: none;
+  }
+
+  .modal-create {
+    background-color: #EDCF64;
+  }
+
+
+  /* input file with image preview */
+
+.image-area {
+    border: 2px dashed rgba(255, 255, 255, 0.7);
+    padding: 1rem;
+    position: relative;
+}
+
+.image-area::before {
+    content: 'Uploaded image result';
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.8rem;
+    z-index: 1;
+}
+
+.image-area img {
+    z-index: 2;
+    position: relative;
+}

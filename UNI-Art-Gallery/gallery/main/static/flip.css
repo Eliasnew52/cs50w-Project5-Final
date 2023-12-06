@@ -1,0 +1,32 @@
+.form{
+
+    perspective: 100%;
+  }
+  
+  .card-inner {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.999s;
+  }
+  
+  .form.clicked .card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .card-front,
+  .card-back {
+
+   
+    backface-visibility: hidden;
+  }
+  
+  .card-front {
+    background-color: #EDCF64;
+    transform: rotateY(0deg);
+  }
+  
+  .card-back {
+    background-color: #EDCF64;
+    transform: rotateY(180deg);
+  }
+  
