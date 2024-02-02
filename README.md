@@ -1,7 +1,7 @@
 
-# CS50w - Project 4 UNI ART GALLERY
+# CS50w - Project 5 UNI ART GALLERY
 
-Este Project 4 es el final de CS50w, consiste en una mini red social dirigida a los Estudiantes, en donde podran subir sus Creaciones de Artes, Ordernarlas por Etiquetas y Asi mismo Donar utilizando la pasarela de pago PayPal
+Este Project 5 es el final de CS50w, consiste en una mini red social dirigida a los Estudiantes, en donde podran subir sus Creaciones de Artes, Ordernarlas por Etiquetas y Asi mismo Donar utilizando la pasarela de pago PayPal
 
 
 
